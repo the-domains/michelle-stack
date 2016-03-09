@@ -1,0 +1,28 @@
+name: 'Michelle Stack '
+favicon: null
+layout_spectrum: 0.20041390135884285
+typography_spectrum: 0.20038399007171392
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5707134518306702
+  lightness: 0.6256020402070135
+  saturation: 0.6582550180610269
+  rhythmicContrast: 0.35660987882874906
+purpose: []
