@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  url: 'https://michellestack.ca/'
+  email: policymatters03@gmail.com
+  name: Michelle Stack
 name: 'Michelle Stack '
 cta:
   domain: null
