@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: 'http://michellestack.ca'
+    type: external
 favicon: null
 title: Michelle Stack
 purpose: []
