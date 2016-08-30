@@ -1,20 +1,4 @@
-name: 'Michelle Stack '
-favicon: null
-layout_spectrum: 0.25293
 typography_spectrum: 0.99512
-title: Michelle Stack
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -26,4 +10,24 @@ color:
   lightness: 0.6256020402070135
   saturation: 0.6582550180610269
   rhythmicContrast: 0.35660987882874906
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25293
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Michelle Stack '
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Wordpress
+    url: 'https://michellestack.ca/'
+    type: external
+favicon: null
+title: Michelle Stack
 purpose: []
